@@ -1,6 +1,6 @@
 storenum,empname,hoursactive,sales,shifts
-1,John Doe,40,1000,Day
-2,Jane Smith,35,800,Night
-3,Bob Johnson,45,1200,Evening
-4,Alice Brown,30,600,Day
-5,Charlie Wilson,38,950,Night
+1,John Doe,40,1000,2
+2,Jane Smith,35,800,1
+3,Bob Johnson,45,1200,3
+4,Alice Brown,30,600,4
+5,Charlie Wilson,38,950,1
